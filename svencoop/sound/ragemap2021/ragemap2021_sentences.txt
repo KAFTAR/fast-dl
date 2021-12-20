@@ -1,0 +1,4 @@
+SC_TRAM scientist/tram
+SC_SNIFFLE scientist/sniffle
+SC_SNEEZE scientist/sneeze
+VOX1 vox/warning biohazard detected
