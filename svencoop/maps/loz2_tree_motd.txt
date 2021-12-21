@@ -1,0 +1,50 @@
+The Legend of Zelda: Ocarina of Time
+Conversion by w00tguy123
+
+-----------------------------------------
+Inside The Deku Tree
+-----------------------------------------
+
+Hints/Information:
+
+-To break the web in the first room, at least two
+players need to jump off separate ledges (3 at the 
+top). Make sure you don't land on each other!
+
+-Deku Babas that stand straight up can be killed for Deku
+Sticks. Use these to light torches and burn webs.
+
+-You can't kill Deku Scrubs with a melee
+weapon. You need Deku Nuts or a Slingshot.
+
+-It takes two players to take down a Big Skulltula. 
+One to distract, and another to attack.
+
+-Gohma eggs can be broken before they hatch.
+
+-Gohma's only weakpoint is the eye.
+
+-Once you run out of lives, you have to restart
+the level (if the majority wants to try again).
+
+-Boulders and certain walls can only be blown up
+with Deku Nuts.
+
+-There is a hidden chest holding 10 lives somewhere.
+
+-----------------------------------------
+Special thanks to:
+-----------------------------------------
+
+Sence - Helped me with animations+entities+errors.
+
+Misfire - Used his server for public testing of these maps.
+
+Qwerty - Mapped a big section of Lost Woods. Linked me
+to tools and resources (ROM debug stuff, fancy music).
+
+Music is by ZREO (Zelda Reorchestrated)
+http://www.zreomusic.com/z5-archive
+
+
+
